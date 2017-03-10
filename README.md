@@ -1,4 +1,4 @@
-# sample-child-theme
+# Sample WordPress Child Theme
 
 A sample child theme that can be used with ANY theme.
 
