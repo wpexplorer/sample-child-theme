@@ -1,0 +1,11 @@
+/*
+Theme Name: Child Theme
+Theme URI: https://github.com/wpexplorer/sample-child-theme
+Description: A sample child theme to use with any parent theme.
+Author: AJ Clarke
+Author URI: http://www.wpexplorer.com/
+Template: Total !!!!! IMPORTANT !!! CHANGE THIS TO YOUR PARENT THEME FOLDER NAME
+Version: 1.0
+*/
+
+/* Parent stylesheet are loaded from functions.php (the correct way) not using @import */
